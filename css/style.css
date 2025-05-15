@@ -1,6 +1,6 @@
 :root {
-  --primary-color: #954545;
-  --ripple-color: rgba(255, 255, 255, 0.5);
+  --primary-color: #601212;
+  --ripple-color: rgba(142, 74, 74, 0.5);
 }
 
 * {
@@ -11,9 +11,9 @@
 
 body {
   font-family: Arial, sans-serif;
-  line-height: 1.8;
-  padding: 10px;
-  background: #454545;
+  line-height: 1.6;
+  padding: 20px;
+  background: #1a1a1a;
 }
 
 .resume-container {
